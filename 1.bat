@@ -1,0 +1,1 @@
+echo hacked BY NHT > 1100.txt
