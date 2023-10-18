@@ -1,1 +1,1 @@
-echo hacked BY NHT > 1100.txt
+echo HACKED BY NHT > 1100.txt
